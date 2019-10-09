@@ -6,7 +6,7 @@ To run  the code with the sample Amazon network:
 (2) pip install -r requirements.txt
 (3) go to MLC folder
 (4)python MLC.py
-(5) go to code directory, you will find the conductance results in the Cond folder and the F1 results in the F1 folder.
+(5) go to MLC-code folder, you will find the conductance results in the Cond folder and the F1 results in the F1 folder.
 
 NOTE: 
 
